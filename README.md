@@ -59,7 +59,7 @@ We welcome contributions! Follow these steps to contribute:
 
 ## 📩 Contact
 For any queries or feedback, reach out to:
-📧 **Email:** anshulbhathija1727@ggmail.com 
+📧 **Email:** anshulbhathija1727@gmail.com 
 🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/anshul-bhathija-8229b0301)
 
 ---
