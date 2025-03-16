@@ -17,7 +17,7 @@ After submitting the form, a QR Code is generated on the screen. This QR code ca
 ✅ Smooth UI for a seamless experience
 
 📸 Demo
-![alt text](image.png)
+![Demo](./assets/images/form.png)
 ![Demo](./assets/images/qr%20code.png)
 
 🏗 Tech Stack
