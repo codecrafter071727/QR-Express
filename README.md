@@ -31,7 +31,7 @@ Follow these steps to clone and run the project on your local machine:
 ### 🔻 Clone the Repository
 ```sh
 git clone https://github.com/yourusername/partner-app.git
-cd partner-app
+
 ```
 
 ### 🔹 Install Dependencies
@@ -59,7 +59,7 @@ We welcome contributions! Follow these steps to contribute:
 
 ## 📩 Contact
 For any queries or feedback, reach out to:
-📧 **Email:** yourname@example.com  
+📧 **Email:** anshulbhathija1727@ggmail.com 
 🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourprofile)
 
 ---
