@@ -1,50 +1,55 @@
-# Welcome to your Expo app 👋
+🚀 QR Express
+📌 Overview
+The Partner App is a web-based platform that allows businesses to register by filling out a form with details like:
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Business Name
+Address
+Business Idea
+Contact Details
+operating hours 
+social media handles 
+After submitting the form, a QR Code is generated on the screen. This QR code can be scanned by users using the companion User App, which will display the business details on their screen.
 
-## Get started
+🛠 Features
+✅ Business registration through an interactive form
+✅ Automatic QR Code generation based on input details
+✅ Users can scan the QR Code to retrieve business details
+✅ Smooth UI for a seamless experience
 
-1. Install dependencies
+📸 Demo
+![alt text](image.png)
+![Demo](./assets/images/qr%20code.png)
 
-   ```bash
-   npm install
-   ```
+🏗 Tech Stack
+Frontend: React Native (Expo)
+Backend: Express.js
+Database: MongoDB
+QR Code Generation: qrcode.react
+🎯 How to Set Up and Run the Project
+Follow these steps to clone and run the project on your local machine:
 
-2. Start the app
+🔻 Clone the Repository
+sh
+Copy
+Edit
+git clone https://github.com/yourusername/partner-app.git
+cd partner-app
+🔹 Install Dependencies
+sh
+Copy
+Edit
+npm install
+▶️ Start the Project
+sh
+Copy
+Edit
+npm start
+Press "a" to open the app in the Expo Go simulator.
 
-   ```bash
-    npx expo start
-   ```
+📢 Contributing
+We welcome contributions! Feel free to fork the repo, create a new branch, and submit a pull request.
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📩 Contact
+For any queries or feedback, reach out to:
+📧 Email: yourname@example.com
+🔗 LinkedIn
